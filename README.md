@@ -1,6 +1,6 @@
 # Hey, I'm Aaryan Tibrewal 👋
 
-BCA graduate from Mumbai. I build backend systems, desktop tools, and whatever else seems interesting.
+BCA final year student from Mumbai. I build backend systems, desktop tools, and whatever else seems interesting.
 
 I learn best by making things — breaking them, fixing them, and shipping them.
 
@@ -9,27 +9,33 @@ I learn best by making things — breaking them, fixing them, and shipping them.
 ## 🚀 Projects
 
 **[HomeVault](https://github.com/Aaryan2R/HomeVault)** — Self-hosted home file storage server
-Python · Flask · MySQL · Nginx · mDNS · Windows Installer
-`v1.2.0` · MIT licensed · 2 external contributors · GitHub Actions CI
+Python · Flask · SQLite · Nginx · mDNS · Windows Installer
+`v1.2.0 stable` · MIT licensed · 2 external contributors · GitHub Actions CI · open source
 
 **[Share Market Analysis](https://github.com/Aaryan2R/ShareMarket---Analysis-)** — Local AI market intelligence for Indian equities
 Python · PyTorch · FinBERT · Yahoo Finance · Local LLM agent with tool-calling
+`v1.0.0` · MIT licensed · runs entirely on your own machine
 
 **[WaifuChat](https://github.com/Aaryan2R/WaifuChat)** — AI desktop companion with 9 anime personalities
-Java · Swing · Google Gemini API · Conversation memory · Mouth animation
+Java · Swing · Google Gemini API · conversation memory · mouth animation
+`v1.0.0` · configurable via properties file
+
+**[DMart Shopping System](https://github.com/Aaryan2R/DMart-Java-Swing-Shopping-System)** — Java Swing supermarket simulator
+Java · Swing · OOP architecture · cart · billing · payment and delivery flow
 
 ---
 
-## 🛠️ Tech
+## 🛠️ Tech I work with
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
@@ -46,7 +52,7 @@ Java · Swing · Google Gemini API · Conversation memory · Mouth animation
 ## 🎓 Education
 
 **BCA — Bachelor of Computer Applications**
-Tilak Maharashtra Vidyapeeth, Pune · Graduated 2025
+Tilak Maharashtra Vidyapeeth, Pune · Final Year
 
 ---
 
