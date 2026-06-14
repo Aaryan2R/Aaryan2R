@@ -10,7 +10,7 @@ I learn best by making things — breaking them, fixing them, and shipping them.
 
 **[HomeVault](https://github.com/Aaryan2R/HomeVault)** — Self-hosted home file storage server
 Python · Flask · SQLite · Nginx · mDNS · Windows Installer
-`v1.2.0 stable` · MIT licensed · 2 external contributors · GitHub Actions CI · open source
+`v1.3.0 stable` · MIT licensed · 2 external contributors · GitHub Actions CI · open source
 
 **[Share Market Analysis](https://github.com/Aaryan2R/ShareMarket---Analysis-)** — Local AI market intelligence for Indian equities
 Python · PyTorch · FinBERT · Yahoo Finance · Local LLM agent with tool-calling
